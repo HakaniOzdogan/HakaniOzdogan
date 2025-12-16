@@ -40,17 +40,3 @@ Bu projede kullanılan Genetik Algoritma parametreleri ve yöntemleri şunlardı
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
-
-Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
-
-### Gereksinimler
-Proje **Python 3** ile geliştirilmiştir ve aşağıdaki kütüphanelere ihtiyaç duyar:
-* `numpy`
-* `matplotlib`
-
-### Kurulum
-Gerekli kütüphaneleri yüklemek için terminalde şu kodu çalıştırın:
-
-```bash
-pip install numpy matplotlib
