@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hakan 👋
 
-<!--
-**HakaniOzdogan/HakaniOzdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Engineering student who enjoys learning by building.
 
-Here are some ideas to get you started:
+I have experience with **C#** and **.NET**, and I’m currently expanding my skills in **AI systems** and **computer vision** through hands-on practice and project-based learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I share the projects I build, experiment with new ideas, and improve my work over time.
+
+## Current Focus
+- AI systems
+- Computer vision
+- C# / .NET development
+- Building practical software projects
+
+## Goal
+To grow through real projects, keep improving my skills, and document that progress consistently.
+
+## Projects
+More projects coming soon 🚀
